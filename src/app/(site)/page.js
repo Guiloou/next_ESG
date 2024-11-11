@@ -37,7 +37,7 @@ export default function Categorias() {
     <div className="bg-pink-700 p-6 rounded-md w-full max-w-md flex flex-col justify-center items-center">
       <p className="text-white text-2xl font-semibold mb-3">Parabéns!</p>
       <p className="text-gray-200 text-lg text-center mb-6">
-        Você acumulou jiksdajdiks000 pontos ajudando o meio ambiente! Resgate agora prêmios incríveis com seus pontos.
+        Você acumulou 26000 pontos ajudando o meio ambiente! Resgate agora prêmios incríveis com seus pontos.
       </p>
       <button className="bg-pink-600 text-white font-bold text-xl px-6 py-3 rounded-md hover:bg-pink-500">
         RESGATAR AGORA
