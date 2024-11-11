@@ -1,3 +1,7 @@
+export const metadata = {
+  description: "EcoCorp - ESG",
+};
+
 
 export default function Categorias() {
   const categorias = [
@@ -25,7 +29,7 @@ export default function Categorias() {
     <h2 className="text-2xl text-gray-400">Olá!</h2>
     <h1 className="text-5xl font-bold text-white my-4">Você tem <span className="text-pink-500">26000</span> pontos!</h1>
     <div className="flex items-center justify-center mb-6">
-      <img src="/logo.png" alt="EcoCorp Logo" className="h-24 w-24" />
+      <img src="icon.png" alt="EcoCorp Logo" className="h-23 w-23" />
     </div>
     <h3 className="text-2xl font-semibold text-gray-400">SALDO DE PONTOS</h3>
     <p className="text-5xl font-bold text-white mt-4">26000</p>

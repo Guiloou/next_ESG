@@ -1,8 +1,11 @@
 import Header from "@/app/(site)/_components/header";
 
 export const metadata = {
-  title: "Portfólio",
-  description: "Confira os posts do meu blog",
+  title: {
+    template: "%s | EcoCorp",
+    default: "EcoCorp",
+  },
+  icons: {icon: "/icon.png"},
 };
 
 export default function SiteLayout({children}) {
